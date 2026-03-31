@@ -31,6 +31,7 @@ In this course, I am learning how to write **bold** text, use _italics_ for emph
 - [ ] Master CSS Flexbox
 - [ ] Build a full React app
 > This is a blockquote. I am learning coding.
+
 Hello! My name is Sharleen Salma. I am an aspiring developer currently learning markdown.
 I enjoy:
 Coding
