@@ -1,5 +1,4 @@
-&lt;div align="center"&gt;
-  &lt;img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" alt="Your Profile Picture" /&gt;
+
   
   # Hi, I'm sharleen salma 👋
 &lt;/div&gt;
@@ -20,7 +19,8 @@
 ## 📂 Current Projects
 - ☁️Dynamic weather app
 - ✅To-do list
--💐The Don flowers
+- 💐The Don flowers
+
 
 ## 📫 How to Reach Me
 - 📧 Email: s7085751@gmail.com
